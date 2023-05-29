@@ -7,7 +7,7 @@ I am happy to share some git commands that I used to create my GitHub portfolio.
 ## Easy navigation
 
 - [Creating, cloning, pushing and pulling repositories](#task-1)
-- [Creating, adding remotely repositories](#task-2)
+- [Creating, adding remote repositories](#task-2)
 
 ## Task 1
 
@@ -24,7 +24,7 @@ git push
 ```
 ## Task 2
 
-##### Creating, adding remotely repositories  
+##### Creating, adding remote repositories  
 ```git
 git init sql                                                # Create separate repository for portfolio item 
 git remote add sql https://github.com/osukhorukova/sql.git  # Declarie repository remotely 
